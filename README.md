@@ -5,7 +5,7 @@
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard)
 [![Dependency Status](https://gemnasium.com/sensu-plugins/sensu-plugins-geckoboard.svg)](https://gemnasium.com/sensu-plugins/sensu-plugins-geckoboard)
-[ ![Codeship Status for sensu-plugins/sensu-plugins-geckoboard](https://codeship.com/projects/de09a350-edb4-0132-b6b1-1efd3f886df2/status?branch=master)](https://codeship.com/projects/84074)
+[![Codeship Status for sensu-plugins/sensu-plugins-geckoboard](https://codeship.com/projects/de09a350-edb4-0132-b6b1-1efd3f886df2/status?branch=master)](https://codeship.com/projects/84074)
 
 ## Functionality
 
