@@ -1,6 +1,6 @@
 ## Sensu-Plugins-geckoboard
 
-[![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-geckoboard.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-geckoboard)
+[ ![Build Status](https://travis-ci.org/sensu-plugins/sensu-plugins-geckoboard.svg?branch=master)](https://travis-ci.org/sensu-plugins/sensu-plugins-geckoboard)
 [![Gem Version](https://badge.fury.io/rb/sensu-plugins-geckoboard.svg)](http://badge.fury.io/rb/sensu-plugins-geckoboard)
 [![Code Climate](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard/badges/gpa.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard)
 [![Test Coverage](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard/badges/coverage.svg)](https://codeclimate.com/github/sensu-plugins/sensu-plugins-geckoboard)
