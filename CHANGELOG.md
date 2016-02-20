@@ -14,3 +14,5 @@ This CHANGELOG follows the format listed at [Keep A Changelog](http://keepachang
 ### Added
 - initial release
 
+[Unreleased]: https://github.com/sensu-plugins/sensu-plugins-geckoboard/compare/0.0.2...HEAD
+[0.0.2]: https://github.com/sensu-plugins/sensu-plugins-geckoboard/compare/0.0.1...0.0.2
